@@ -1,0 +1,15 @@
+.pfp-cn {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-top: -10%;
+    overflow: hidden;
+}
+.pfp-cn img {
+    width: 100%;
+}
+.pfp-cn .default-pfp {
+    width: 110%;
+    margin-left: -9px;
+    margin-top: -18px;
+}
